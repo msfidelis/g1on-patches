@@ -106,3 +106,70 @@
 **THRSH:** 11
 
 **Level:** 100
+
+
+## Solo - Themes 
+
+### 1. ZNR
+**THRH:** 15
+
+**DETCT:** GtrIn
+
+**Level:** 100
+
+### 2. MS 1959
+
+**Gain:** 56
+
+**Tube:** 46
+
+**Level:** 100
+
+**Trebl:** 62
+
+**Middl:** 38
+
+**Bass:** 40
+
+**Prese:** 50
+
+**Cab:** MS 1959 4x12
+
+**Out:** Line
+
+### 3. Arena
+**Delay:** 16
+
+**Tone:** 8
+
+**Mix:** 85
+
+**PreD:** 60
+
+**Level:** 100
+
+**Tail:** Off
+
+
+### 4. Delay
+**Time:** 827
+
+**F.B.:** 16
+
+**Mix:** 40
+
+**HiDMP:** 10
+
+**P-P:** MONO
+
+**Level:** 70
+
+**Tail:** OFF
+
+
+
+### 2. Optional: Booster
+
+**Gain:** 100
+**Tone:** 60
+**Level:** 150
