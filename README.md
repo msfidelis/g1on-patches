@@ -1,4 +1,6 @@
-# g1on-patches
+# G1on Guitar Patches
+
+
 :guitar: :guitar: :guitar: - My guitar patches for Zoom G1on
 
 
