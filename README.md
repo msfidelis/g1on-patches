@@ -178,5 +178,54 @@
 #### 2. Optional: Booster
 
 **Gain:** 100
+
 **Tone:** 60
+
 **Level:** 150
+
+
+
+
+# Custom Clean with Reverb
+
+
+### 1. ZNR
+**THRSH:** 13
+
+**DETCT:** GtrIn
+
+**Level:** 120
+
+### 2. Comp
+
+**Sense:** 4
+
+**Tone:** 5
+
+**Level:** 100
+
+**ATTCK:** Slow
+
+
+### 2. FD Combo
+
+**Gain:** 20
+
+**Tube:** 58
+
+**Level:** 150
+
+
+### 2. HD Hall
+
+**PreD:** 7
+
+**Decai:** 66
+
+**Mix:** 49
+
+**LoDMP:** 12
+
+**HiDMP:** 85
+
+**Tail:** Off
