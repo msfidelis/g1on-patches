@@ -2,9 +2,8 @@
 :guitar: :guitar: :guitar: - My guitar patches for Zoom G1on
 
 
-# Drives
 
-## Custom Drive 
+# Custom Drive
 
 ### 1. ZNR 
 
@@ -48,7 +47,10 @@
 
 **Level:** 100
 
-## Custom Drive D# - Pitchshifter
+
+
+
+# Custom Drive D# - Pitchshifter
 
 
 ### 1. ZNR 
@@ -108,7 +110,10 @@
 **Level:** 100
 
 
-## Solo - Themes 
+
+
+
+# Solo - Themes 
 
 ### 1. ZNR
 **THRH:** 15
@@ -168,7 +173,7 @@
 
 
 
-### 2. Optional: Booster
+#### 2. Optional: Booster
 
 **Gain:** 100
 **Tone:** 60
